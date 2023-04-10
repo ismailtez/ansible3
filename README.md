@@ -30,4 +30,4 @@
 
 При нажатии Ctrl+Shift+r, у вас обновится страничка с web1 на web2:
 
-![](https://github.com/AlexanderPodprugin/ansible3/blob/main/web2.jpg)
+![](https://github.com/ismailtez/ansible3/blob/main/web2.jpg)
