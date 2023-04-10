@@ -26,7 +26,7 @@
 
 Если вы все сделали правильно, по ip Vip: 192.168.11.110, у вас должна появиться кастомная страничка:
 
-![](https://github.com/AlexanderPodprugin/ansible3/blob/main/web1.jpg)
+![](https://github.com/ismailtez/ansible3/blob/main/web1.jpg)
 
 При нажатии Ctrl+Shift+r, у вас обновится страничка с web1 на web2:
 
